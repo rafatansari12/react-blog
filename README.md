@@ -1,2 +1,2 @@
-# react-blog
+# react-blog (under development)
 React Redux Firebase 
